@@ -1,1 +1,12 @@
 # PracticeWeb
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Site</title>
+</head>
+<body>
+    <h1>Hello from GitHub!</h1>
+</body>
+</html>
