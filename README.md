@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My Site</title>
+    My SITE
 </head>
 <body>
     <h1>Hello from GitHub!</h1>
